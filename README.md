@@ -22,10 +22,41 @@ Welcome to the **Spotify Clone** project! This is a frontend clone of Spotify bu
 
 ## How to Run the Project
 
-1. Clone the repository:
+   Clone the repository:
 
    ```bash
    git clone https://github.com/HarshScripts22/spotify-reactclone.git
+   ```
+
+
+## Install the required dependencies:
+   
+   ```bash
+   npm install
+   ```
+## Run the development server:
+   ```bash
+   npm start
+   ```
+
+## Folder Structure
+
+   ```bash
+   spotify-reactclone/
+├── public/             # Public files such as index.html
+├── src/
+│   ├── components/     # Reusable components (Header, Footer, Player, etc.)
+│   ├── assets/         # Images, icons, etc.
+│   ├── App.js          # Main App component
+│   ├── index.js        # App entry point
+├── tailwind.config.js  # Tailwind CSS configuration
+├── package.json        # Project metadata and dependencies
+└── README.md           # Project documentation (This file)
+```
+
+
+Contributing
+Feel free to fork the repository and submit pull requests. All contributions are welcome 💖😊✨!   
 
 
 # React + Vite
