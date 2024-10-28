@@ -9,7 +9,6 @@ Welcome to the **Spotify Clone** project! This is a frontend clone of Spotify bu
 ## Features
 
 - 🎶 **Responsive Design**: A sleek and modern UI that works seamlessly across different devices.
-- 🔍 **Search Functionality**: Browse your favorite songs and artists.
 - 🎧 **Music Player Interface**: Replicates Spotify's music player UI.
 - 🎨 **Tailwind CSS**: Styled using the utility-first CSS framework.
 - ⚡ **React Hooks**: Efficient and clean code with hooks for managing state and side effects.
