@@ -1,5 +1,6 @@
 import bell_icon from "./bell.png";
 import home_icon from "./home.png";
+import download_icon from "./download.png";
 import like_icon from "./like.png";
 import loop_icon from "./loop.png";
 import mic_icon from "./mic.png";
@@ -41,10 +42,12 @@ import img16 from "./img16.jpg";
 import song1 from "./song1.mp3";
 import song2 from "./song2.mp3";
 import song3 from "./song3.mp3";
+import song5 from "./Maroon5.mp3";
 
 export const assets = {
   bell_icon,
   home_icon,
+  download_icon,
   like_icon,
   loop_icon,
   mic_icon,
@@ -151,9 +154,9 @@ export const songsData = [
     id: 4,
     name: "Song Five",
     image: img5,
-    file: song2,
+    file: song5,
     desc: "Put a smile on your face with these happy tunes",
-    duration: "3:10",
+    duration: "3:06",
   },
   {
     id: 5,

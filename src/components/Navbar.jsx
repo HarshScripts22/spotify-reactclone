@@ -23,14 +23,16 @@ const Navbar = () => {
           />
         </div>
         <div className="flex items-center gap-4">
+          {" "}
           <p className="bg-white text-black text-[15px] font-semibold px-4 py-1 rounded-2xl hidden md:block cursor-pointer">
             Explore Premium
           </p>
-          <p className="bg-black px-4 py-1 rounded-2xl text-[15px] font-bold md:block cursor-pointer">
+          <p className="bg-black px-4 py-2 flex items-center rounded-2xl text-[15px] font-bold  cursor-pointer  ">
+            <img className="w-6 h-6 mr-2" src={assets.download_icon} alt="" />
             Install App
           </p>
-          <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center font-bold">
-            HD
+          <p className="bg-green-500 text-black w-7 h-7 p-5 rounded-full flex items-center justify-center font-bold">
+            D
           </p>
         </div>
       </div>
