@@ -5,6 +5,7 @@ import AlbumItem from "./AlbumItem";
 import { songsData } from "../assets/assets";
 import SongItem from "./SongItem";
 import Footer from "./footer";
+import Artist from "./Artist";
 
 const DisplayHome = () => {
   return (
@@ -40,6 +41,7 @@ const DisplayHome = () => {
           ))}
         </div>
       </div>
+      <Artist />
 
       <Footer />
     </>
