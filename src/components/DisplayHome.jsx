@@ -6,6 +6,7 @@ import { songsData } from "../assets/assets";
 import SongItem from "./SongItem";
 import Footer from "./footer";
 import Artist from "./Artist";
+import Charts from "./Charts";
 
 const DisplayHome = () => {
   return (
@@ -42,6 +43,7 @@ const DisplayHome = () => {
         </div>
       </div>
       <Artist />
+      <Charts />
 
       <Footer />
     </>

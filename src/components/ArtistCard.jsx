@@ -21,7 +21,7 @@ const ArtistCard = ({ artistImg, artistName, artistTag }) => {
         <h5 className="text-base font-medium text-neutral-100 hover:underline">
           {artistName}
         </h5>
-        <p className="text-sm text-neutral-400">{artistTag}</p>
+        <p className="text-sm font-semibold text-neutral-400">{artistTag}</p>
       </div>
     </Link>
   );
