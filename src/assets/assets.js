@@ -1,5 +1,5 @@
 import bell_icon from "./bell.png";
-import spotify_logo from "./Spotify_logo.png";
+import spotify_logo from "./spotify_logo.png";
 import home_icon from "./home.png";
 import download_icon from "./download.png";
 import like_icon from "./like.png";
@@ -22,7 +22,6 @@ import queue_icon from "./queue.png";
 import volume_icon from "./volume.png";
 import arrow_right from "./right_arrow.png";
 import arrow_left from "./left_arrow.png";
-// import spotify_logo from "./spotify_logo.png";
 import clock_icon from "./clock_icon.png";
 import img1 from "./img1.jpg";
 import img2 from "./img2.jpg";
