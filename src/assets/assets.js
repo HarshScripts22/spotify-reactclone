@@ -1,5 +1,4 @@
 import bell_icon from "./bell.png";
-import spotifyLogo from "./spotify_logo.png";
 import spotify_logo from "./spotify_logo.png";
 import home_icon from "./home.png";
 import download_icon from "./download.png";
