@@ -1,4 +1,5 @@
 import bell_icon from "./bell.png";
+import spotifyLogo from "./spotify_logo.png";
 import spotify_logo from "./spotify_logo.png";
 import home_icon from "./home.png";
 import download_icon from "./download.png";
@@ -42,7 +43,7 @@ import img16 from "./img16.jpg";
 import song1 from "./song1.mp3";
 import song2 from "./song2.mp3";
 import song3 from "./song3.mp3";
-import song5 from "./Maroon5.mp3";
+import song5 from "./maroon5.mp3";
 
 export const assets = {
   bell_icon,
