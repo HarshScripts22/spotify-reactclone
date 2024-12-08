@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import PlayBtn from "./playBtn";
+import PlayBtn from "./PlayBtn";
 
 const ChartsCard = ({ chartImg, chartDesc }) => {
   return (
